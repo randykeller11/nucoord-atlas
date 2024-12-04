@@ -1,5 +1,5 @@
 {
-  "name": "your-app-name",
+  "name": "nucoord-atlas",
   "version": "1.0.0",
   "main": "server/index.js",
   "scripts": {
@@ -11,5 +11,8 @@
     "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "openai": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=14.x"
   }
 }
